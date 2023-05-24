@@ -1,1 +1,1 @@
-# Image-Compression-pproject
+# Image-Compression-Project
